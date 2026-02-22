@@ -1,6 +1,7 @@
 langchain-groq
 langchain-community
 python-dotenv
+langchain
 uvicorn
 fastapi
 pydantic
